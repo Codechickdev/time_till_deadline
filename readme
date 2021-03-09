@@ -1,0 +1,12 @@
+Dear Friends i had made a simple project that might useful for you
+
+Follow the procedure in readme to understand more clearly
+
+Step 1 - import the respective module
+Step 2 - ask the input
+Step 3 - spilt the input to list mode by ":"
+Step 4 - separate the input list by index 0 and 1
+Step 5 - now make those list correct for datetime
+Step 6 - make today's date
+Step 7 - subract the deadline date and today's date
+Step 8 - print it out with f string
